@@ -55,6 +55,6 @@ The project includes:
 This project demonstrates data cleaning, transformation, missing-value handling, exploratory data analysis, insight generation, and visualization using Python. The analysis provides an overview of popularity and audio characteristics across Spotify tracks and genres.
 
 ## Repository Contents
-- `Spotify_Data_Analysis.ipynb` — Jupyter Notebook containing the analysis
+- `Spotify_Tracks.ipynb` — Jupyter Notebook containing the analysis
 - `spotify_tracks.csv` — Dataset used for the analysis
 - `README.md` — Project documentation
