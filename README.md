@@ -1,4 +1,4 @@
-# Milestone 1 – CIE: Spotify Data Analysis
+# Milestone 1 – CIE: Spotify Tracks
 
 ## Project Overview
 This project analyzes the Spotify Tracks Dataset using Python. The goal is to clean and transform the data, handle missing values, generate insights, and create visualizations.
